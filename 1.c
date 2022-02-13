@@ -6,5 +6,5 @@ int main()
   scanf("%d %d",&a,&b);
   c=a+b-a%b;
   printf("Next largest multiple=%d",c);
-  return 0;
+  return -1;
 }
